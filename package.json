@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel pages/index.html"
+    "start": "parcel index.html --port 1234",
+    "start-html5": "parcel index_html5.html --port 1235"
   },
   "author": "",
   "license": "ISC",
