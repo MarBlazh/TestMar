@@ -1,0 +1,23 @@
+p {
+  color: pink;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.title {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#list {
+  color: purple;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+#footer {
+  color: #ff4500;
+}
+
+/*# sourceMappingURL=index_html5.fa0466bf.css.map */

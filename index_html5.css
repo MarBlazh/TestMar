@@ -1,0 +1,28 @@
+/* 
+Rule name:
+- tag name
+- class name
+- id name
+*/
+
+p {
+  font-size: 12px;
+  font-weight: bold;
+  color: pink;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  color: red;
+}
+
+#list {
+  font-size: 15px;
+  font-weight: lighter;
+  color: purple;
+}
+
+#footer {
+  color: orangered;
+}
